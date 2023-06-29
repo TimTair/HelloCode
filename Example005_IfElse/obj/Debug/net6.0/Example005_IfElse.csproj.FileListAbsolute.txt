@@ -1,0 +1,15 @@
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/refint/Example005_IfElse.dll
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
+/Users/timurtairov/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll
